@@ -153,7 +153,7 @@ footer{ width:1030px; margin:0 auto; padding:46px 0 50px;}
 .footer-menu li:first-child{ padding-left:0; background:none;}
 	.footer-menu li a{color:#fff;}
 	.footer-menu li a:hover,.footer-menu li.current a{color:#dc6147;}
-.indent{ display:inline-block; width:87px;}
+.indent{ display:inline-block; width:117px;}
 .social{ position:relative; overflow:hidden;}
 	.social li{ float:left; margin:1px 4px 0 0;}
 	.social li a:hover img{ opacity:.5}
